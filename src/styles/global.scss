@@ -93,3 +93,8 @@ p {
     line-height: 1.4375;
   }
 }
+
+// to ensure optimal mobile behaviour-----------------
+[data-block-id] {
+    max-width: 100%!important;
+ }
