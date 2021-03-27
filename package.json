@@ -47,3 +47,8 @@
     "url": "https://github.com/kendallstrautman/brevifolia-gatsby-forestry"
   }
 }
+{
+  "scripts": {
+    "develop": "gatsby develop"
+  }
+}
